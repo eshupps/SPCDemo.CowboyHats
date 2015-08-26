@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="34fbc6c1-b509-45b3-9f17-5ba4eb28a683" solutionId="34fbc6c1-b509-45b3-9f17-5ba4eb28a683" resetWebServer="false" name="SPCDemo.CowboyHats" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bf2b8a2e-ce73-4817-ae66-6a22c14dae64" />
+  </features>
+</package>

@@ -1,0 +1,13 @@
+﻿body {font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;}
+.title {
+   padding-top:5px;
+   padding-bottom:15px;
+   color:#0072C6;
+   font-size:24pt; 
+}
+.main {
+    min-height:500px;
+}
+.content {
+    padding-left:10px;
+}
